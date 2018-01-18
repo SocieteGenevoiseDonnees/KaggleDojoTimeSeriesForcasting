@@ -1,5 +1,7 @@
 # MEETUP #2 - Kaggle Dojo: Time Series Forecasting
 
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/PythonDSGeneva/KaggleDojoTimeSeriesForcasting/master)
+
 As prepared as part of the Geneva Python For Data Science Meetup https://www.meetup.com/python_for_data_analysis/events/245920253/
 
 https://www.kaggle.com/c/web-traffic-time-series-forecasting
