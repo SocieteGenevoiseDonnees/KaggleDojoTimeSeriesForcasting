@@ -1,6 +1,7 @@
 # MEETUP #2 - Kaggle Dojo: Time Series Forecasting
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/PythonDSGeneva/KaggleDojoTimeSeriesForcasting/master)[![![kaggle](https://img.shields.io/badge/kaggle-kernel-blue.svg)](https://www.kaggle.com/yhaddad/forecasting-starting-kit-geneva-kaggle-dojo)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/PythonDSGeneva/KaggleDojoTimeSeriesForcasting/master)[!
+[![kaggle](https://img.shields.io/badge/kaggle-kernel-blue.svg)](https://www.kaggle.com/yhaddad/forecasting-starting-kit-geneva-kaggle-dojo)
 
 As prepared as part of the Geneva Python For Data Science Meetup https://www.meetup.com/python_for_data_analysis/events/245920253/
 
